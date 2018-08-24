@@ -1,0 +1,11 @@
+{
+    "name": "zengin-code/zengin-php",
+    "homepage": "https://github.com/cv0629-blog/zengin-php.git",
+    "authors": [
+        {
+            "name": "yuta nakamura",
+            "email": "yuta.nakamura0629@gmail.com"
+        }
+    ],
+    "require": {}
+}
